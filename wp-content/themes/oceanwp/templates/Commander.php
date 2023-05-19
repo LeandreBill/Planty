@@ -95,44 +95,49 @@
 	</nav>
 
 </div>
-
-			
-				
+		
 </header>
 
 
 	<!-- Begin Body -->
 <body>
-    <main id="main" class="site-main clr" role="main" style="background-color:#326238">
+<main id="main" class="site-main clr" role="main" style="background-color: #3B8E46">
 
 				
 	
-	<div id="content-wrap" class="container-clr-bis">
+<div id="content-wrap" class="container clr">
+
+	
+	<div id="primary" class="content-area clr">
 
 		
-		<div id="primary" class="content-area clr">
+		<div id="content" class="site-content clr">
 
 			
-			<div id="content" class="site-content clr">
-
-				
-				
+			
 <article class="single-page-article clr">
 
-	
+
 <div class="entry clr" itemprop="text">
 
-	
-	
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
+<div style="height:54px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
 <p class="has-text-align-center has-white-color has-text-color" style="font-size:38px;font-style:normal;font-weight:800">COMMANDER</p>
+</div></div>
 
 
 
+<div class="wp-block-group alignwide is-layout-constrained"><div class="wp-block-group__inner-container">
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<hr class="wp-block-separator alignwide has-text-color has-white-color has-alpha-channel-opacity has-white-background-color has-background is-style-wide">
+<hr class="wp-block-separator alignwide has-text-color has-white-color has-alpha-channel-opacity has-white-background-color has-background is-style-default">
 
 
 
@@ -140,16 +145,17 @@
 
 
 
-<p class="has-white-color has-text-color" style="font-size:30px">Votre Commande</p>
+<p class="has-text-align-left votre_commande has-white-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Votre Commande</p>
 
 
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div>
 
 
 
 <div class="wp-block-group alignwide is-layout-constrained"><div class="wp-block-group__inner-container">
-<div class="wp-block-columns alignwide are-vertically-aligned-center is-layout-flex wp-container-6">
+<div class="wp-block-columns alignwide are-vertically-aligned-center is-layout-flex wp-container-8">
 <div class="wp-block-column is-vertically-aligned-center is-layout-flow" style="flex-basis:25%">
 <figure class="wp-block-image size-full"><img decoding="async" width="393" height="262" src="http://planty/wp-content/uploads/2023/05/Group-12.png" alt="" class="wp-image-326" srcset="http://planty/wp-content/uploads/2023/05/Group-12.png 393w, http://planty/wp-content/uploads/2023/05/Group-12-300x200.png 300w" sizes="(max-width: 393px) 100vw, 393px"></figure>
 </div>
@@ -175,25 +181,9 @@
 
 
 
-<div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-23">
+<div class="wp-block-columns alignwide are-vertically-aligned-top is-layout-flex wp-container-25">
 <div class="wp-block-column is-vertically-aligned-top is-layout-flow">
-<div class="wp-block-columns is-layout-flex wp-container-9">
-<div class="wp-block-column is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="http://planty/wp-content/uploads/2023/05/Bouton.png" alt="" class="wp-image-361" width="100" height="56"></figure>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow">
-<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="http://planty/wp-content/uploads/2023/05/Bouton.png" alt="" class="wp-image-361" width="100" height="56"></figure>
-</div>
-</div>
-</div>
-
-
-
-<div class="wp-block-column is-vertically-aligned-top is-layout-flow">
-<div class="wp-block-columns is-layout-flex wp-container-13">
+<div class="wp-block-columns is-layout-flex wp-container-11">
 <div class="wp-block-column is-layout-flow">
 <figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="http://planty/wp-content/uploads/2023/05/Bouton.png" alt="" class="wp-image-361" width="100" height="56"></figure>
 </div>
@@ -209,7 +199,7 @@
 
 
 <div class="wp-block-column is-vertically-aligned-top is-layout-flow">
-<div class="wp-block-columns is-layout-flex wp-container-17">
+<div class="wp-block-columns is-layout-flex wp-container-15">
 <div class="wp-block-column is-layout-flow">
 <figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="http://planty/wp-content/uploads/2023/05/Bouton.png" alt="" class="wp-image-361" width="100" height="56"></figure>
 </div>
@@ -225,7 +215,23 @@
 
 
 <div class="wp-block-column is-vertically-aligned-top is-layout-flow">
-<div class="wp-block-columns is-layout-flex wp-container-21">
+<div class="wp-block-columns is-layout-flex wp-container-19">
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="http://planty/wp-content/uploads/2023/05/Bouton.png" alt="" class="wp-image-361" width="100" height="56"></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="http://planty/wp-content/uploads/2023/05/Bouton.png" alt="" class="wp-image-361" width="100" height="56"></figure>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-top is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-23">
 <div class="wp-block-column is-layout-flow">
 <figure class="wp-block-image size-full is-resized"><img decoding="async" loading="lazy" src="http://planty/wp-content/uploads/2023/05/Bouton.png" alt="" class="wp-image-361" width="100" height="56"></figure>
 </div>
@@ -238,25 +244,122 @@
 </div>
 </div>
 </div>
+
+
+
+<hr class="wp-block-separator alignwide has-text-color has-white-color has-alpha-channel-opacity has-white-background-color has-background">
 </div></div>
 
-	
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-group alignwide is-content-justification-center is-nowrap is-layout-flex wp-container-31">
+<div class="wp-block-columns is-layout-flex wp-container-30">
+<div class="wp-block-column is-vertically-aligned-top contact-livraison is-layout-flow">
+<p class="has-text-align-left has-white-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Vos informations</p>
+
+
+
+<div class="wp-block-contact-form-7-contact-form-selector">
+<div class="wpcf7 js" id="wpcf7-f589-p539-o1" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/commander-2/?preview=true#wpcf7-f589-p539-o1" method="post" class="wpcf7-form init" aria-label="Formulaire de contact" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="589">
+<input type="hidden" name="_wpcf7_version" value="5.7.6">
+<input type="hidden" name="_wpcf7_locale" value="fr_FR">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f589-p539-o1">
+<input type="hidden" name="_wpcf7_container_post" value="539">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+
+<p><label for="fname">Nom</label><br>
+<input type="text" id="fname" name="name" style="background-color:white; width:383px;height:71px">
+</p>
+<p><label for="fname">Prénom</label><br>
+<input type="text" id="fname" name="name" style="background-color:white;width:383px;height:71px">
+</p>
+<p><label for="femail">E-mail</label><br>
+<input type="text" id="femail" name="email" style="background-color:white;width:383px;height:71px">
+</p>
+</form><div class="wpcf7-response-output" aria-hidden="true"></div>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow" style="flex-basis:2%"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="http://planty/wp-content/uploads/2023/05/Line-6.png" alt="" class="wp-image-615" height="500"></figure></div></div>
+
+
+
+<div class="wp-block-column is-layout-flow">
+<p class="has-text-align-left has-white-color has-text-color has-large-font-size" style="font-style:normal;font-weight:600">Livraison</p>
+
+
+
+<div class="wp-block-contact-form-7-contact-form-selector">
+<div class="wpcf7 js" id="wpcf7-f595-p539-o2" lang="fr-FR" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/commander-2/?preview=true#wpcf7-f595-p539-o2" method="post" class="wpcf7-form init" aria-label="Formulaire de contact" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="595">
+<input type="hidden" name="_wpcf7_version" value="5.7.6">
+<input type="hidden" name="_wpcf7_locale" value="fr_FR">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f595-p539-o2">
+<input type="hidden" name="_wpcf7_container_post" value="539">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+
+<p><label for="fname">Adresse de livraison</label><br>
+<input type="text" id="fname" name="name" style="background-color:white;width:383px;height:71px">
+</p>
+<p><label for="fname">Code postal</label><br>
+<input type="text" id="fname" name="name" style="background-color:white;width:383px;height:71px">
+</p>
+<p><label for="femail">Ville</label><br>
+<input type="text" id="fname" name="name" style="background-color:white;width:383px;height:71px">
+</p>
+</form><div class="wpcf7-response-output" aria-hidden="true"></div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-32">
+<div class="wp-block-button bouton_commander"><a class="wp-block-button__link has-text-align-center wp-element-button">Commander</a></div>
+</div>
+
+
+
+<div style="height:128px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
 </div>
 
 </article>
 
-				
-			</div><!-- #content -->
-
 			
-		</div><!-- #primary -->
+		</div><!-- #content -->
 
 		
-	</div><!-- #content-wrap -->
+	</div><!-- #primary -->
 
 	
+</div><!-- #content-wrap -->
 
-	</main>
+
+
+</main>
 	</body>
 
 
