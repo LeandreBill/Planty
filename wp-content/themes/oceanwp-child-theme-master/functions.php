@@ -14,6 +14,8 @@
  *
  */
 
+
+
 /**
  * Load the parent style.css file
  *
@@ -31,3 +33,7 @@ function oceanwp_child_enqueue_parent_style() {
 }
 
 add_action( 'wp_enqueue_scripts', 'oceanwp_child_enqueue_parent_style' );
+
+
+
+
